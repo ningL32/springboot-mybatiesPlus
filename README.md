@@ -1,2 +1,3 @@
 # springboot-mybatiesPlus
 demo
+mybatiesPlus:
